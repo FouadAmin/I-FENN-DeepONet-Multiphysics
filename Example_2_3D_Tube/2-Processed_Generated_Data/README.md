@@ -1,5 +1,5 @@
 ## Data Availability
-The data is being uploaded to a Zenodo repository and will be published soon.
+The data is available at the following [Zenodo repository](https://doi.org/10.5281/zenodo.18147612).
 
 ## Data Preparation
 Download all compressed (.zip) files that start with `EX02`, then extract the contents into this directory. The directory `2-Processed_Generated_Data` should contain the following files:
