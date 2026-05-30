@@ -8,6 +8,9 @@ Fouad M. Amin, Diab W. Abueidda, Panos Pantidis, and Mostafa E. Mobasher (2026).
 ## Code Availability
 Source code files for `Coupled FEM Solver`, `Deep Learning (DL) Training`, and `Full I-FENN Implementation` are provided in this repository.
 
+## Data Availability
+The training datasets are available at the following [Zenodo repository](https://doi.org/10.5281/zenodo.18147612).
+
 ## Citation
 
 If you use this code or data in your research, please cite the following paper:
