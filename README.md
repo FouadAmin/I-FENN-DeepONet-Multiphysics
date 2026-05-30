@@ -5,8 +5,8 @@ This repository contains the code and data associated with the following researc
 Fouad M. Amin, Diab W. Abueidda, Panos Pantidis, and Mostafa E. Mobasher (2026).
 [DOI: 10.1016/j.cma.2025.118645](https://doi.org/10.1016/j.cma.2025.118645)
 
-## Availability
-All source code and datasets used in the study are currently being cleaned and organized and will be published here soon.
+## Code Availability
+Source code files for `Coupled FEM Solver`, `Deep Learning (DL) Training`, and `Full I-FENN Implementation` are provided in this repository.
 
 ## Citation
 
